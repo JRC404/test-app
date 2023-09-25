@@ -26,3 +26,13 @@
 # VS Demonstration
 * Using the 'git changes' window, we can use a GUI instead of a command line interface for Git commits
 * If you don't see 'git changes' - click 'View' and then 'git changes'
+
+# VS Code Demonstration
+* On the left hand side, you will see a tree with 3 circles, that is our git GUI tool
+* That will show you the changes that have been made in the application
+* At this moment in time, I have 1 change:
+    * readme.md
+* To commit the change, I have to do 3 things:
+    * Type a message for Git to highlight what has been changed: 'readme updated with VS Code Instructions'
+    * I need to stage the commit by clicking the + icon next to the 'Changes' heading
+    * Click the dropdown arrow next to 'Commit' and select 'Commit & Push'
