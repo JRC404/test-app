@@ -68,3 +68,6 @@ git push origin main
 git branch -d example
 git branch -D example // this will force the branch to delete even if there are unmerged changes
 ```
+
+## Extra Comments
+* This is to show reverting back to a previous commit
