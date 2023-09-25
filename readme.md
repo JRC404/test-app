@@ -36,3 +36,20 @@
     * Type a message for Git to highlight what has been changed: 'readme updated with VS Code Instructions'
     * I need to stage the commit by clicking the + icon next to the 'Changes' heading
     * Click the dropdown arrow next to 'Commit' and select 'Commit & Push'
+
+## Version Numbers of Applications
+
+* 1.0.0
+* The far right 0.0.1 <- Is a minor change to the applcation
+    * 0.0.2 <- A minor change from 0.0.1
+* The middle number 0.1.0 <- is a bigger change but not a drastic move
+* The first number 2.0.0 <- is a major release of an application / programme / software tool
+* https://support.apple.com/en-gb/HT213407#1601 for reference
+
+## Branching
+
+* We can use brnaching to allow engineers to try different solutions without causing issues on the main codebase
+
+```
+git branch example
+```

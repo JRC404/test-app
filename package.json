@@ -1,0 +1,19 @@
+{
+  "name": "test-app",
+  "version": "1.0.0",
+  "description": "Test Application for Git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JRC404/test-app.git"
+  },
+  "author": "Jacob Reilly-Cooper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JRC404/test-app/issues"
+  },
+  "homepage": "https://github.com/JRC404/test-app#readme"
+}
