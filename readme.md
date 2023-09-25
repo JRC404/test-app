@@ -23,4 +23,6 @@
     * git add -all OR git add -A
         * This will add hidden files but try not to add hidden files. They are often hidden for a reason. .gitignore is an exception
         
-# VS Demonstration        
+# VS Demonstration
+* Using the 'git changes' window, we can use a GUI instead of a command line interface for Git commits
+* If you don't see 'git changes' - click 'View' and then 'git changes'
