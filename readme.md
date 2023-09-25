@@ -52,4 +52,19 @@
 
 ```
 git branch example
+git checkout example
+```
+
+* To merge with main, we need to do the following:
+```
+git checkout main
+git pull origin main // to get the latest from main
+git merge example
+git push origin main
+```
+
+* Sometimes, we don't need to keep the test branch alive, so we can delete the branch:
+```
+git branch -d example
+git branch -D example // this will force the branch to delete even if there are unmerged changes
 ```
